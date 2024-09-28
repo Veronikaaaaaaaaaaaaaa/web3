@@ -9,12 +9,6 @@ body {
   padding: 40px;
 }
 
-.form {
-  max-width: 960px;
-  margin: auto;
-  padding: 50px;
-}
-
 /*  шапка */
 .header {
   background-color: #FF69B4;
